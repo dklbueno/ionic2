@@ -1,0 +1,17 @@
+aula 2 -
+
+npm install -g cordova ionic
+
+ionic start --v2 appRevenda tabs
+
+DICA:
+Ao baixar o código fonte de cada aula dar o comando:
+npm install
+
+obs: esse comando vai criar a pasta node_modules
+
+aula 3 -
+
+ionic g page Carros
+ionic g page Favoritos
+ionic g page Detalhe
